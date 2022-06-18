@@ -1,0 +1,219 @@
+CRITICAL - 2022-05-31 12:22:57 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-31 12:24:15 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-31 12:27:08 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-31 12:27:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-31 12:27:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-31 12:27:26 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-31 12:27:26 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-31 12:27:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-31 12:38:31 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-31 12:57:38 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-31 13:10:20 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-31 13:10:21 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-31 13:10:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-31 13:10:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-31 13:10:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\lab11_ci\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\lab11_ci\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-31 06:38:22 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\lab11_ci\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\lab11_ci\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lab11_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-31 11:31:00 --> syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+#0 C:\xampp\htdocs\lab11_ci\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('page/about')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('page/about')
+#2 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-31 11:52:05 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\lab11_ci\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\lab11_ci\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lab11_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-31 11:52:36 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\lab11_ci\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\lab11_ci\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lab11_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-31 11:54:14 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\lab11_ci\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\lab11_ci\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\lab11_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-31 11:54:16 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\lab11_ci\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('page/about')
+#1 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('page/about')
+#2 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-31 11:57:13 --> Cannot redeclare App\Controllers\Page::contact()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-31 11:59:28 --> Invalid file: artikel.php
+#0 C:\xampp\htdocs\lab11_ci\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel.php')
+#1 C:\xampp\htdocs\lab11_ci\system\Common.php(1089): CodeIgniter\View\View->render('artikel', Array, true)
+#2 C:\xampp\htdocs\lab11_ci\app\Controllers\page.php(21): view('artikel', Array)
+#3 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(832): App\Controllers\Page->artikel()
+#4 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-31 11:59:50 --> Invalid file: artikel.php
+#0 C:\xampp\htdocs\lab11_ci\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel.php')
+#1 C:\xampp\htdocs\lab11_ci\system\Common.php(1089): CodeIgniter\View\View->render('artikel', Array, true)
+#2 C:\xampp\htdocs\lab11_ci\app\Controllers\page.php(21): view('artikel', Array)
+#3 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(832): App\Controllers\Page->artikel()
+#4 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-31 12:00:47 --> Invalid file: artikel.php
+#0 C:\xampp\htdocs\lab11_ci\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel.php')
+#1 C:\xampp\htdocs\lab11_ci\system\Common.php(1089): CodeIgniter\View\View->render('artikel', Array, true)
+#2 C:\xampp\htdocs\lab11_ci\app\Controllers\page.php(21): view('artikel', Array)
+#3 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(832): App\Controllers\Page->artikel()
+#4 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-31 12:00:53 --> Undefined variable: title
+#0 C:\xampp\htdocs\lab11_ci\app\Views\template\header.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5, Array)
+#1 C:\xampp\htdocs\lab11_ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lab11_ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lab11_ci\system\View\View.php(424): CodeIgniter\View\View->render('template/header', NULL, true)
+#4 C:\xampp\htdocs\lab11_ci\app\Views\contact.php(1): CodeIgniter\View\View->include('template/header')
+#5 C:\xampp\htdocs\lab11_ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\lab11_ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\lab11_ci\system\Common.php(1089): CodeIgniter\View\View->render('contact', Array, true)
+#8 C:\xampp\htdocs\lab11_ci\app\Controllers\page.php(28): view('contact')
+#9 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(832): App\Controllers\Page->contact()
+#10 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#11 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\lab11_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-05-31 12:02:13 --> Undefined variable: title
+#0 C:\xampp\htdocs\lab11_ci\app\Views\template\header.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5, Array)
+#1 C:\xampp\htdocs\lab11_ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lab11_ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lab11_ci\system\View\View.php(424): CodeIgniter\View\View->render('template/header', NULL, true)
+#4 C:\xampp\htdocs\lab11_ci\app\Views\contact.php(1): CodeIgniter\View\View->include('template/header')
+#5 C:\xampp\htdocs\lab11_ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\lab11_ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\lab11_ci\system\Common.php(1089): CodeIgniter\View\View->render('contact', Array, true)
+#8 C:\xampp\htdocs\lab11_ci\app\Controllers\page.php(28): view('contact')
+#9 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(832): App\Controllers\Page->contact()
+#10 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#11 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\lab11_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-05-31 12:07:27 --> Undefined variable: title
+#0 C:\xampp\htdocs\lab11_ci\app\Views\template\header.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5, Array)
+#1 C:\xampp\htdocs\lab11_ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lab11_ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lab11_ci\system\View\View.php(424): CodeIgniter\View\View->render('template/header', NULL, true)
+#4 C:\xampp\htdocs\lab11_ci\app\Views\contact.php(1): CodeIgniter\View\View->include('template/header')
+#5 C:\xampp\htdocs\lab11_ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\lab11_ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\lab11_ci\system\Common.php(1089): CodeIgniter\View\View->render('contact', Array, true)
+#8 C:\xampp\htdocs\lab11_ci\app\Controllers\page.php(28): view('contact')
+#9 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(832): App\Controllers\Page->contact()
+#10 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#11 C:\xampp\htdocs\lab11_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\lab11_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
